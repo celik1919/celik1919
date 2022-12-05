@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning, Backend Web Development with Java
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me mustafa_clk19@hotmail.com
+- Have a nice day
 
 <!---
 celik1919/celik1919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
